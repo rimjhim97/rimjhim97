@@ -1,0 +1,30 @@
+//Day 6
+//Given a string, , of length  that is indexed from  to , print its even-indexed and odd-indexed characters as  space-separated strings on a single line (see the Sample below for more detail).
+
+import java.io.*;
+import java.util.*;
+
+public class Solution {
+    
+    public static void main(String[] args) {
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+        
+      
+        Scanner sc = new Scanner(System.in);
+        int T = sc.nextInt();
+        for(int j=0;j<T;j++) {
+            String even, odd;
+            even = odd = "";
+            String myString = sc.next();
+            char[] charArray = myString.toCharArray();
+            for (int i = 0; i < charArray.length; i += 2) {
+                even += charArray[i];
+            }
+            for (int j = 1; j < charArray.length; j += 2) {
+                odd += charArray[j];
+            }
+            System.out.println(even + " " + odd);
+        }
+    }
+    }
+
