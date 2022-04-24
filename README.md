@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rimjhim97
-- 👀 I’m interested in low coding and front end development works
-- 🌱 I’m currently learning Javascript, springboot
-- 💞️ I’m looking to collaborate on react based projects
-- 📫 How to reach me no_way_available 
+- 👀 I’m interested in front end development works
+- 🌱 I have some experience in Spring MVC, springboot and microservices
+- 💞️ I’m looking to collaborate on real world project ideas
+- 📫 How to reach me - drop an email at bhaswatichakraborty638@gmail.com 
 
 <!---
 rimjhim97/rimjhim97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
