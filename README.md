@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rimjhim97
-- 👀 I’m interested in front end development works
-- 🌱 I have some experience in Spring MVC, springboot and microservices
-- 💞️ I’m looking to collaborate on real world project ideas
+- 👋 Hi, I’m Bhaswati
+- 👀 I’m interested in backend development. 
+- 🌱 I have more than 2 years of experience in developing backend application using Java Springboot ecosystem. 
+- 💞️ I’m looking for new exciting opportunities
 - 📫 How to reach me - drop an email at bhaswatichakraborty638@gmail.com 
 
 <!---
